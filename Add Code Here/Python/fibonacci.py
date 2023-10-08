@@ -8,4 +8,4 @@ def fibonacci(n):
 
 n_terms = 10
 for i in range(n_terms):
-    print(f"Fibonacci({i}) = {fibonacci(i)}")
+    print(f"Fibonacci({i}) = {fibonacci(i)}") 
